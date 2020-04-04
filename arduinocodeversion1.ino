@@ -2,9 +2,9 @@
 int GREEN = 2;
 int YELLOW = 3;
 int RED = 4;
-int DELAY_GREEN = 5000;
-int DELAY_YELLOW = 2000;
-int DELAY_RED = 5000;
+int DELAY_GREEN = 15000;
+int DELAY_YELLOW = 5000;
+int DELAY_RED = 10000;
 
 
 // basic functions
